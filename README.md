@@ -65,9 +65,9 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
 | Mod | Download |
 |-----|----------|
 | 📦 - Schweizer Absperrsystem V1.3 | [Download](https://example.com/absperrsystem) |
-| 📦 - TP_Erlengrat V2              | [Download](https://example.com/erlengrat)     |
-| 📦 - Platzierbarer Bauzaun        | [Download](https://example.com/bauzaun)       |
-| 📦 - Hallenpack                   | [Download](https://example.com/hallenpack)    |
+| 📦 - TP_Erlengrat V2              | [Download](https://discord.gg/nJgGj7BWX8)     |
+<!--| 📦 - Platzierbarer Bauzaun        | [Download](https://example.com/bauzaun)       |
+| 📦 - Hallenpack                   | [Download](https://example.com/hallenpack)    |-->
 
 ---
 
@@ -85,11 +85,11 @@ Diese Map oder darin befindliche Objekte dürfen **nicht ohne Zustimmung weiterv
 ## 📎 Hinweise
 
 - Die Map wird weiter ausgebaut
-- Für Feedback, Bugs oder Ideen bitte Kontakt über Discord: `fmods` oder über GitHub Issues
+- Für Feedback, Bugs oder Ideen bitte Kontakt über mein Discord Server: [Swiss Construction Server](https://discord.gg/eHB3pfskcU) oder über GitHub Issues
 
 ---
 
-📥 [Map Herunterladen]()
+<!--📥 [Map Herunterladen]()-->
 
 
 ---
