@@ -35,6 +35,29 @@
 
   Erst kürzlich wurden in der Stadt neue Verbundsteine gelegt, allerdings hat der Bauunternehmer gepfuscht und kein Kieskoffer eingebaut, reisse die neuen alten Verbundsteine raus und ersetze das Erdreich mit Kies.
 
-  ![Erdrutsch](Screenshot%202025-05-09%20132303.png)
+  ![Erdrutsch](Screenshot%202025-05-07%20133651.png)
 
 </details>
+
+---
+
+# Benötigte Mods
+
+| Mod | Download |
+|-----|----------|
+| 📦 - Schweizer Absperrsystem V1.3 | [Download](https://example.com/absperrsystem) |
+| 📦 - TP_Erlengrat V2              | [Download](https://example.com/erlengrat)     |
+| 📦 - Platzierbarer Bauzaun        | [Download](https://example.com/bauzaun)       |
+| 📦 - Hallenpack                   | [Download](https://example.com/hallenpack)    |
+
+---
+
+# Credits
+
+| Objekt | Credit |
+|-----|----------|
+| 📦 - Baustellen Objekte | Maelius |
+| 📦 - Filltypes | Nonnus |
+| 📦 - Karte | Giants |
+| 📦 - Alles weitere und umsetzung | fmods |
+
