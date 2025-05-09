@@ -56,6 +56,8 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
  Das sind nur einige Baustellen auf der Karte. 
 
 </details>
+
+
 ---
 
 # Benötigte Mods
