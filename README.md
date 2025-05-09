@@ -51,11 +51,9 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
 </details>
 
 <details>
-  <summary>Alte Rohre erneuern</summary>
+  <summary>Und einiges Mehr!</summary>
 
-  In einem Strassenabschnitt müssen die alten Rohre gegen neue Ersetzt werden.
-
-  ![Erdrutsch](Screenshot%202025-05-09%20094620.png)
+ Das sind nur einige Baustellen auf der Karte. 
 
 </details>
 ---
@@ -82,7 +80,9 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
 
 ---
 
-Viel Spaß auf der Karte – ich freue mich über Feedback, Ideen und Screenshots von euren eigenen Baustellen!
+Viel Spaß auf der Karte 
+- Die Karte wird von mir weiter Ausgebaut!
+– ich freue mich über Feedback, Ideen und Screenshots von euren eigenen Baustellen!
 
 -fmods
 
