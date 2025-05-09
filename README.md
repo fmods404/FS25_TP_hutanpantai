@@ -46,9 +46,10 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
 
   Ein Ortansässiger Hotelier will sein Hotel erweitern, dazu muss ein Grundstütz neu erschlossen werden und der Aushub erstellt werden. Momentan ist dein Auftrag auch, die Innere Kanalisation zu erstellen.
 
-  ![Erdrutsch](Screenshot%202025-05-07%20133651.png)
+  ![Erdrutsch](Screenshot%202025-05-09%20094620.png)
 
 </details>
+
 ---
 
 # Benötigte Mods
