@@ -26,6 +26,15 @@
 
   Es wurden neue Hochspannungsleitungen durch das Gebiet genehmigt. Du hast den Auftrag erhalten die Strommästen zu setzen, beachte aber das du vorher das Terrain anpasst. Insgesamt sprechen wir von 21 Masten
 
-  ![Erdrutsch](Screenshot%202025-05-09%20143019.png)
+  ![Erdrutsch](Screenshot%202025-05-09%20132303.png)
+
+</details>
+
+<details>
+  <summary>Pfusch am Bau</summary>
+
+  Erst kürzlich wurden in der Stadt neue Verbundsteine gelegt, allerdings hat der Bauunternehmer gepfuscht und kein Kieskoffer eingebaut, reisse die neuen alten Verbundsteine raus und ersetze das Erdreich mit Kies.
+
+  ![Erdrutsch](Screenshot%202025-05-09%20132303.png)
 
 </details>
