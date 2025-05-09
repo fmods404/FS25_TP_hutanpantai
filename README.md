@@ -71,14 +71,26 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
 
 ---
 
-# Credits
+## 🧱 Credits
 
-| Objekt | Credit |
-|-----|----------|
-| 📦 - Baustellen Objekte | Maelius |
-| 📦 - Filltypes | Nonnus |
-| 📦 - Karte | Giants |
-| 📦 - Alles weitere und umsetzung | fmods |
+- Map: **GIANTS**
+- Rohrsystem: **MAELIUS**
+- Filltypes: **Nonnus**
+- Danke an Came fürs testen der Map
+  
+## 📜 Lizenz
+
+Diese Map oder darin befindliche Objekte dürfen **nicht ohne Zustimmung weiterverbreitet oder verändert** hochgeladen werden.
+
+## 📎 Hinweise
+
+- Die Map wird weiter ausgebaut
+- Für Feedback, Bugs oder Ideen bitte Kontakt über Discord: `fmods` oder über GitHub Issues
+
+---
+
+📥 [Map Herunterladen]()
+
 
 ---
 
