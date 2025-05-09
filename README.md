@@ -63,3 +63,13 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
 | 📦 - Karte | Giants |
 | 📦 - Alles weitere und umsetzung | fmods |
 
+---
+
+Viel Spaß auf der Karte – ich freue mich über Feedback, Ideen und Screenshots von euren eigenen Baustellen!
+
+-fmods
+
+
+
+
+
