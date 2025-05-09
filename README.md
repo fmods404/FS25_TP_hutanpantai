@@ -17,7 +17,7 @@
 
   Durch das letzte grosse Unwetter wurde jede Menge Flusssand in den Kanal geschwemmt. Befreie den Kanal vom Sand, damit er beim nächsten Unwetter nicht ganz verstopft!
 
-  ![Erdrutsch](Screenshot%202025-05-09%20143019.png)
+  ![Erdrutsch](Screenshot%202025-05-07%20133651.png)
 
 </details>
 
