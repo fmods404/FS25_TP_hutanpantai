@@ -1,6 +1,8 @@
 # TP-Version of Hutan Pantai
 
+Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere fest integrierte Baustellenbereiche. Sie eignen sich für den Einsatz von Bau- und Erdbewegungsfahrzeugen und erweitern die Karte um funktionale Spielflächen für Straßenbau, Geländeprofilierung und Materiallogistik. Bestehende Strukturen und Geländeformen wurden entsprechend angepasst.
 
+---
 
 # Baustellen
 <details>
