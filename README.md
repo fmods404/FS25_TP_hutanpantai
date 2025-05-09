@@ -50,6 +50,14 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
 
 </details>
 
+<details>
+  <summary>Alte Rohre erneuern</summary>
+
+  In einem Strassenabschnitt müssen die alten Rohre gegen neue Ersetzt werden.
+
+  ![Erdrutsch](Screenshot%202025-05-09%20094620.png)
+
+</details>
 ---
 
 # Benötigte Mods
