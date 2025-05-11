@@ -64,11 +64,11 @@ Diese angepasste Variante der Standardkarte „Hutan Pantai“ enthält mehrere 
 
 | Mod | Download |
 |-----|----------|
-<!--| 📦 - Schweizer Absperrsystem V1.3 | [Download](https://discord.gg/eHB3pfskcU) |-->
+
 | 📦 - TP_Erlengrat V2              | [Download](https://discord.gg/nJgGj7BWX8)     |
 <!--| 📦 - Platzierbarer Bauzaun        | [Download](https://example.com/bauzaun)       |
 | 📦 - Hallenpack                   | [Download](https://example.com/hallenpack)    |-->
-
+<!--| 📦 - Schweizer Absperrsystem V1.3 | [Download](https://discord.gg/eHB3pfskcU) |-->
 ---
 
 ## 🧱 Credits
