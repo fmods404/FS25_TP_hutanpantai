@@ -89,12 +89,13 @@ Diese Map oder darin befindliche Objekte dürfen **nicht ohne Zustimmung weiterv
 
 ---
 
-<!--📥 [Map Herunterladen]()-->
+<!--📥 [Map Herunterladen](https://mega.nz/file/mlxhUSKC#PhJMCs0tUBIRU8H22pqZ4YVoCzyQHXV-nXI-Lhv1L7I)-->
 
 
 ---
 
 Viel Spaß auf der Karte 
+- Ich Danke Maelius sehr für die Freigabe seiner Objekte❤️
 - Die Karte wird von mir weiter Ausgebaut!
 – ich freue mich über Feedback, Ideen und Screenshots von euren eigenen Baustellen!
 
