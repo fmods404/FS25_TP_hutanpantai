@@ -89,7 +89,8 @@ Diese Map oder darin befindliche Objekte dürfen **nicht ohne Zustimmung weiterv
 
 ---
 
-<!--📥 [Map Herunterladen](https://mega.nz/file/e0xUQR5R#Drt0YPy1L9idYV1dJbAy3rQGioOruPdJvRiuUkLHwVU)-->
+
+📥 [Map Herunterladen](https://mega.nz/file/e0xUQR5R#Drt0YPy1L9idYV1dJbAy3rQGioOruPdJvRiuUkLHwVU)
 
 
 ---
