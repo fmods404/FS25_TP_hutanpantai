@@ -89,8 +89,22 @@ Diese Map oder darin befindliche Objekte dürfen **nicht ohne Zustimmung weiterv
 
 ---
 
+## Changelog v1.1
 
-📥 [Map Herunterladen](https://mega.nz/file/e0xUQR5R#Drt0YPy1L9idYV1dJbAy3rQGioOruPdJvRiuUkLHwVU)
+- Neues Quartier am Hafen / Ersetze die alten Rohren und schächte durch neue / Setze Sichtschutzwände 
+- Fertigwandgebäude erweitert / Die neuen Elemente dienen zurzeit nur als Deko, in einem späteren Update werden sie benötigt.
+- Markt im neuen Stadtteil / Lege Verbundsteine! 
+- Baustellenmaterial hinzugefügt
+- Erde auf der Strasse kann nun abgebaggert werden
+- Ebenso kann auch der Strasse gekippt werden
+- Selbes für den Flusssand im Kanal
+- Erde hinzugefügt bei Verbundsteinen
+- Diverse kleiner fixes
+
+---
+
+
+📥 [Map Herunterladen](https://mega.nz/file/m1hgmIZJ#-Q6CBnLTpJAiY3_nIETBUfhBz2M06GjgV7SdSTMOEwQ)
 
 
 ---
