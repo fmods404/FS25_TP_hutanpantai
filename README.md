@@ -89,6 +89,25 @@ Diese Map oder darin befindliche Objekte dürfen **nicht ohne Zustimmung weiterv
 
 ---
 
+## Changelog v1.2
+
+
+- Nahezu alle Errors & Warnings wurden entfernt
+- Großbaustelle am Hafen hinzugefügt
+- Neues Betonwerk eingebaut
+- Friedhof ergänzt für etwas Atmosphäre
+- Weitere Baumaterialien hinzugefügt
+- Leitungsbruch in der Stadt sorgt für neuen Einsatz
+- Leuchtschilder & unnötige Deko entfernt
+- Fertigwand-Baustelle überarbeitet – jetzt 150 platzierbare Elemente auch die neuen Elemente!
+- Strommasten bestehen nun aus 8 Teilen (mehr Realismus)
+- Terassenbau hinzugefügt, Setze Randsteine und Gartenplatten.
+- Deponie weiter ausgebaut
+- Alle aktiven Baustellen jetzt mit Ausrufezeichen auf der Karte markiert
+- erscheinen, sobald du Land 1 gekauft hast
+- 3 freie Plätze, um dein eigenes Firmengelände zu errichten
+- je nach Größe deines Equipments ideal nutzbar
+
 ## Changelog v1.1
 
 - Neues Quartier am Hafen / Ersetze die alten Rohren und schächte durch neue / Setze Sichtschutzwände 
@@ -104,7 +123,7 @@ Diese Map oder darin befindliche Objekte dürfen **nicht ohne Zustimmung weiterv
 ---
 
 
-📥 [Map Herunterladen](https://mega.nz/file/m1hgmIZJ#-Q6CBnLTpJAiY3_nIETBUfhBz2M06GjgV7SdSTMOEwQ)
+📥 [Map Herunterladen](https://mega.nz/file/LsYkDBJI#zbMSOZrO1KkBM0gicaj0Kxa3etGZstruBPJcZ3iLuQA)
 
 
 ---
